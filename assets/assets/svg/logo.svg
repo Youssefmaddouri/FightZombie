@@ -1,0 +1,12 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Letter F -->
+  <rect x="16" y="16" width="12" height="68" fill="#ffffff"/>
+  <rect x="16" y="16" width="30" height="12" fill="#ffffff"/>
+  <rect x="16" y="44" width="24" height="12" fill="#ffffff"/>
+
+  <!-- Letter Z -->
+  <rect x="54" y="16" width="30" height="12" fill="#ffffff"/>
+  <polygon points="84,28 64,56 84,56 84,68 54,68 74,40 54,40 54,28"
+           fill="#ffffff"/>
+  <rect x="54" y="72" width="30" height="12" fill="#ffffff"/>
+</svg>
